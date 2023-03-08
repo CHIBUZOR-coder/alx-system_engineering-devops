@@ -1,2 +1,2 @@
-#!/bin/bas
-ls -amvp
+#!/bin/bash
+#ls -amvp
