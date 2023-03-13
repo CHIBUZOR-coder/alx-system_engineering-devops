@@ -1,2 +1,2 @@
 #!/bin/bash
-hea -3 iacta
+hea -n 3 iacta
